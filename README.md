@@ -1,4 +1,4 @@
-# Dots-and-Boxes-Game
+# Dots and Boxes Game
 
 A graphical implementation of the classic **Dots and Boxes** game built using **Python Tkinter** and **NumPy**. The project includes two gameplay modes:
 
